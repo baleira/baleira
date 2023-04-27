@@ -1,5 +1,5 @@
-### Ola 👋, son baleirada
-### Unha deseñadora aprendendo a programar
+### Ola 👋
+### Estou aprendendo a programar
 
 - 🌱 Aprendo HTML, CSS e JavaScript
 - 🤔 Non entendo ben esto do Git
